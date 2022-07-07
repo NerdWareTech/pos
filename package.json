@@ -15,7 +15,7 @@
     "jquery-ui": "^1.12.1",
     "lodash": "^4.16.6",
     "lodash-uuid": "^0.0.3",
-    "moment": "^2.18.1",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.9",
     "screenfull": "^3.3.1",
     "slimscroll": "^0.9.1",
