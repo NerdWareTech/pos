@@ -12,7 +12,7 @@
     "font-awesome": "^4.5.0",
     "jquery": "3.2.1",
     "jquery-migrate": "~1.4.0",
-    "jquery-ui": "^1.12.1",
+    "jquery-ui": "^1.13.2",
     "lodash": "^4.16.6",
     "lodash-uuid": "^0.0.3",
     "moment": "^2.18.1",
