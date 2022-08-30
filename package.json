@@ -16,7 +16,7 @@
     "lodash": "^4.16.6",
     "lodash-uuid": "^0.0.3",
     "moment": "^2.18.1",
-    "moment-timezone": "^0.5.9",
+    "moment-timezone": "^0.5.35",
     "screenfull": "^3.3.1",
     "slimscroll": "^0.9.1",
     "sparklines": "^1.0.0",
