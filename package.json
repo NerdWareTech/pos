@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "animate.css": "^3.5.2",
-    "bootstrap": "3.3.7",
+    "bootstrap": "3.4.1",
     "bootstrap-select": "^1.12.4",
     "chosen": "^0.0.2",
     "eonasdan-bootstrap-datetimepicker": "^4.17.47",
